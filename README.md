@@ -6,5 +6,6 @@
 ### Updated 1st icon image, and now it links to my GitHub profile
 ### Updated 2nd icon image, which now links to my resume
 * Updated my resume
+* Posted it to Linkedin as well
 
 ![Capture](https://user-images.githubusercontent.com/64376825/84101633-062d1480-a9d4-11ea-8e0a-93421e569484.PNG)33
